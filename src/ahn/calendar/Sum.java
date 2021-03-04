@@ -21,5 +21,6 @@ public class Sum {
 //		System.out.println("두 수의 합은"+(a+b)+"입니다.");
 		System.out.printf("두 수의 합은%d입니다.", a+b);
 		scanner.close();
+		//..
 	}
 }
